@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center"> <h2> Welcome to My GitHub!</h2> <p>A passionate student at **SMIT**, currently learning **Web & Application Development**. 🚀 ## About Me - 🌱 I’m constantly learning and improving my development skills.</p> - 💡 I love exploring new technologies and building cool projects. - 💻 Here, I’ll be sharing all my projects as I progress in my journey. Stay Connected If you want to follow my journey, feel free to connect with me and check out my repositories. More exciting projects coming in the future. Stay tuned! ✨ Thanks for stopping by! 🙌 from SMIT Saylani Mass It Training</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdusman398&label=Profile%20views&color=0e75b6&style=flat" alt="mdusman398" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdusman398" alt="mdusman398" /></a> </p>
 
 - 🔭 I’m currently working on **projects**
 
