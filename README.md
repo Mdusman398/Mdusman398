@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center"> <h2> Welcome to My GitHub!</h2> <p>A passionate student at **SMIT**, currently learning **Web & Application Development**. 🚀 ## About Me - 🌱 I’m constantly learning and improving my development skills.</p> - 💡 I love exploring new technologies and building cool projects. - 💻 Here, I’ll be sharing all my projects as I progress in my journey. Stay Connected If you want to follow my journey, feel free to connect with me and check out my repositories. More exciting projects coming in the future. Stay tuned! ✨ Thanks for stopping by! 🙌 from SMIT Saylani Mass It Training</h3>
+<h3 align="center"> <h2> Welcome to My GitHub!</h2> <p>A passionate student at SMIT, currently learning Web & Application Development. <h2>🚀  About Me</h2> - 🌱 I’m constantly learning and improving my development skills.</p> - 💡 I love exploring new technologies and building cool projects. - 💻 Here, I’ll be sharing all my projects as I progress in my journey. Stay Connected If you want to follow my journey, feel free to connect with me and check out my repositories. More exciting projects coming in the future. Stay tuned! ✨ Thanks for stopping by! 🙌 from SMIT Saylani Mass It Training</h3>
 
 
 
